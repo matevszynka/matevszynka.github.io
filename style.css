@@ -3,11 +3,17 @@ p
 {
     color: green;
     font-size: 12pt;
-    font-family: Helvetica, Courier New, San Serif, Arial
-}
+    font-family: Helvetica, Courier New, San Serif, Arial;
+   }
 
 body{
 
 
     background-color: yellow;
+}
+
+img
+
+{
+    padding: 10px;
 }
