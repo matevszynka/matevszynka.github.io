@@ -6,10 +6,11 @@ p
     font-family: Helvetica, Courier New, San Serif, Arial;
    }
 
-body{
+body {
+    margin: auto;
+    max-width: 800px;
 
-
-    background-color: yellow;
+    background-color: rgb(0, 255, 115);
 }
 
 img
