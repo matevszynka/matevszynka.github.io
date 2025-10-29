@@ -1,8 +1,8 @@
 p
 
 {
-    color: green;
-    font-size: 12pt;
+    color: rgb(245, 245, 245);
+    font-size: 16pt;
     font-family: Helvetica, Courier New, San Serif, Arial;
    }
 
@@ -10,7 +10,7 @@ body {
     margin: auto;
     max-width: 800px;
 
-    background-color: rgb(0, 255, 115);
+    background-color: rgb(94, 94, 94);
 }
 
 img
